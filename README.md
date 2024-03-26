@@ -2,16 +2,8 @@
   <img src="https://github.com/AllanDza/Vita_Vue/blob/main/Vanilla-1s-286px.gif" alt="Animated GIF">
 </div>
 ```mermaid
-sequenceDiagram
-    autonumber
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+graph TD;
+    a-->b;
 ```
 <div>
   <h1> Abstract </h1>
