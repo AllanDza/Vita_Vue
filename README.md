@@ -4,7 +4,7 @@
 
 
 <div>
-  <h1><img src="https://github.com/AllanDza/Vita_Vue/blob/main/idea_427735.png"> Abstract </h1>
+  <h1><img src="https://github.com/AllanDza/Vita_Vue/blob/main/idea_427735.png" width='10' height = '10' > Abstract </h1>
   <p>Our project introduces an IoMT device designed for efficient monitoring of diabetic patients' vital signs. Using near-infrared (NIR) technology, the device measures blood glucose, blood pressure, heart pulse, and oxygen levels non-invasively, ensuring patient comfort. Data is transmitted in real-time to the cloud, accessible via a mobile app for both patients and doctors. Advanced algorithms process data to provide personalized insights, enabling proactive management of diabetic conditions. This integrated solution offers convenience, remote accessibility, and improved patient outcomes in diabetic care.</p>
 
 <details>
