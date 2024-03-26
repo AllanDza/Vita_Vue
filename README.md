@@ -53,3 +53,11 @@ In conclusion, our Integrated IoT platform represents a paradigm shift in diabet
 <nbsp>a.	ESP8266 Serial WIFI Transceiver Module for Arduino<br>
 
 </details>
+
+<details>
+  <summary><h2>Marketing Strategy</h2></summary>
+  <div align="center">
+  <img src="https://github.com/AllanDza/Vita_Vue/blob/main/White%20and%20Blue%20Minimal%20Modern%20Business%20Model%20Canvas%20Brainstorm.png">
+</div>
+  
+</details>
