@@ -9,7 +9,7 @@
 <details>
   <summary>Process Overview</summary>
  ```mermaid
-graph TD;
+flowchart TD;
     A-->B;
     A-->C;
     B-->D;
