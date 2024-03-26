@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github.com/AllanDza/Vita_Vue/blob/main/Vanilla-1s-286px.gif" alt="Animated GIF">
 </div>
-``` mermaid
-  graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
 ```
 <div>
   <h1> Abstract </h1>
