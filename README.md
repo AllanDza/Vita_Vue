@@ -19,19 +19,19 @@
 <details>
   <summary><h1>Instruments needed for  the prototyping:</h1></summary>
   
-1)	IR or NIR sensor (ANY ONE)
-•	IR blaster and sensor 
-•	AS7263--6 near-IR channels: 610nm, 680nm, 730nm, 760nm, 810nm and 860nm, each with 20nm FWHM
-•	MAX30100 – built sensor
+1)	IR or NIR sensor (ANY ONE)<br>
+<nbsp>•	IR blaster and sensor <br>
+<nbsp>•	AS7263--6 near-IR channels: 610nm, 680nm, 730nm, 760nm, 810nm and 860nm, each with 20nm FWHM<br>
+<nbsp>•	MAX30100 – built sensor<br>
 
-2)	Amplifier (if the signal is too weak)
-a.	IC LM358N
+2)	Amplifier (if the signal is too weak)<br>
+<nbsp>a.	IC LM358N<br>
 
-4)	Micro-Processor(ANY ONE)
-a.	Arduino uno
-b.	Raspberry pi
+4)	Micro-Processor(ANY ONE)<br>
+<nbsp>a.	Arduino uno<br>
+<nbsp>b.	Raspberry pi<br>
 
-5)	Wifi modules for cloud connectivity
-a.	ESP8266 Serial WIFI Transceiver Module for Arduino
+5)	Wifi modules for cloud connectivity<br>
+<nbsp>a.	ESP8266 Serial WIFI Transceiver Module for Arduino<br>
 
 </details>
