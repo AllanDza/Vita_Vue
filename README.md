@@ -8,8 +8,13 @@
 
 <details>
   <summary>Process Overview</summary>
-  graph TD;
-    A[Start] --> B[Initiate Measurement];
+ ```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
    
 
 </details>
