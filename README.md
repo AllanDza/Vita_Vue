@@ -27,7 +27,7 @@ Furthermore, our IoT platform is designed to support interoperability and integr
 In conclusion, our Integrated IoT platform represents a paradigm shift in diabetic care, offering a comprehensive solution for non-invasive monitoring of vital signs. By combining advanced technology with user-centric design principles, we aim to empower patients, improve clinical outcomes, and ultimately enhance the quality of life for individuals living with diabetes. Through ongoing research, development, and collaboration with healthcare stakeholders, we strive to further refine and optimize our IoT solution to meet the evolving needs of patients and healthcare providers in the digital age.
 </details>
 <details>
-  <summary> <h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/timeline_8777113.png" width='20' height = '20' > Process Overview</h2></summary>
+  <summary> <h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/timeline_8777113.png" width='20' height = '20' > Process Overview</h2></summary>
 <br>
   
    [![](https://mermaid.ink/img/pako:eNpdktFuwiAUhl_lhGt9gS7ZYq3TqnVGzZKNesHKmZK10AA1M9V3H8XapXLFD985-X84NckURxKQg2blEXbRUyrBrRHdWqbtHobDZwhpLIUVzCIkyEylsUBp9y0aemZMR5kVp4ZZxRvYojRKmzsz9kxE23IIc6U4TPMqUwb70OQBWms0jexTrx01Q-cT1lX-2GjaIW-_5wNKWOIJ885S5KFZ_c5ywWGDjAt5eLm2t5Pbbatee2raU7NGXT7QXCCmO82kKYSFiFkGVsE4VxXf99CVukDYnsS-1Zx67Fa01ipziZ2Ze9ncQws6RYm6eeBYGnE42i7KwgNLGglT5uwMQkKivkSOMCrLO7T0UFInSve-0XSZk_8kYe-ocbyiE-mDkAEpUBdMcDc1dYOlxB5dq5QEbsuZ_klJKq-OY5VV27PMSGB1hQNSldzZjwRzw1aQ4Ju5PxsQ5MIqndzG0E_jgJRMfip1Z65_GPHP0w?type=png)](https://mermaid.live/edit#pako:eNpdktFuwiAUhl_lhGt9gS7ZYq3TqnVGzZKNesHKmZK10AA1M9V3H8XapXLFD985-X84NckURxKQg2blEXbRUyrBrRHdWqbtHobDZwhpLIUVzCIkyEylsUBp9y0aemZMR5kVp4ZZxRvYojRKmzsz9kxE23IIc6U4TPMqUwb70OQBWms0jexTrx01Q-cT1lX-2GjaIW-_5wNKWOIJ885S5KFZ_c5ywWGDjAt5eLm2t5Pbbatee2raU7NGXT7QXCCmO82kKYSFiFkGVsE4VxXf99CVukDYnsS-1Zx67Fa01ipziZ2Ze9ncQws6RYm6eeBYGnE42i7KwgNLGglT5uwMQkKivkSOMCrLO7T0UFInSve-0XSZk_8kYe-ocbyiE-mDkAEpUBdMcDc1dYOlxB5dq5QEbsuZ_klJKq-OY5VV27PMSGB1hQNSldzZjwRzw1aQ4Ju5PxsQ5MIqndzG0E_jgJRMfip1Z65_GPHP0w)
@@ -35,7 +35,7 @@ In conclusion, our Integrated IoT platform represents a paradigm shift in diabet
 </details>
 
 <details>
-  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/cpu_10216314.png" width='20' height = '20' > Instruments needed for  the prototyping:</h2></summary>
+  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/cpu_10216314.png" width='20' height = '20' > Instruments needed for  the prototyping:</h2></summary>
   
 1)	IR or NIR sensor (ANY ONE)<br>
 <nbsp>•	IR blaster and sensor <br>
@@ -55,9 +55,9 @@ In conclusion, our Integrated IoT platform represents a paradigm shift in diabet
 </details>
 
 <details>
-  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/market-research_4930475.png" width='20' height = '20' > Marketing Strategy</h2></summary>
+  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/market-research_4930475.png" width='20' height = '20' > Marketing Strategy</h2></summary>
   <div align="center">
-  <img src="https://github.com/AllanDza/Vita_Vue/blob/main/White%20and%20Blue%20Minimal%20Modern%20Business%20Model%20Canvas%20Brainstorm.png">
+  <img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/White%20and%20Blue%20Minimal%20Modern%20Business%20Model%20Canvas%20Brainstorm.png">
 </div>
   
 </details>
