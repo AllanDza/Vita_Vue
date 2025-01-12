@@ -15,7 +15,7 @@ Diabetes mellitus, a chronic metabolic disorder, poses a significant global heal
 In response to these challenges, we propose an innovative Integrated Internet of Medical Things (IoMT) solution designed to revolutionize diabetic care. Our system leverages advanced near-infrared (NIR) technology to enable non-invasive and real-time monitoring of vital signs, thereby enhancing patient comfort and compliance. The IoT device integrates seamlessly into patients' daily lives, offering continuous monitoring without the need for invasive procedures or disruptive interventions.
 
 <div align="center">
-  <img src="[https://github.com/AllanDza/Vita_Vue/blob/main/fchem-10-994272-g001.jpg](https://github.com/AllanDza/Vita_Vue/blob/main/assets/fchem-10-994272-g001.jpg)">
+  <img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/fchem-10-994272-g001.jpg">
 </div>
 
 Key features of our IoT platform include its ability to transmit data wirelessly to a secure cloud-based infrastructure in real-time. This ensures that all vital sign readings are promptly uploaded and stored, enabling comprehensive data analysis and actionable insights. Through sophisticated data processing algorithms, our platform can identify trends, anomalies, and potential health risks, empowering both patients and healthcare providers with valuable information for proactive intervention and personalized treatment planning.
