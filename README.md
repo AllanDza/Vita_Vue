@@ -8,7 +8,7 @@
   <p>Our project introduces an IoMT device designed for efficient monitoring of diabetic patients' vital signs. Using near-infrared (NIR) technology, the device measures blood glucose, blood pressure, heart pulse, and oxygen levels non-invasively, ensuring patient comfort. Data is transmitted in real-time to the cloud, accessible via a mobile app for both patients and doctors. Advanced algorithms process data to provide personalized insights, enabling proactive management of diabetic conditions. This integrated solution offers convenience, remote accessibility, and improved patient outcomes in diabetic care.</p>
 
 <details>
-  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/presentation_10542075.png" width='20' height = '20'> Introduction</h2></summary>
+  <summary><h2><img src="https://github.com/AllanDza/Vita_Vue/blob/main/assets/presentation_10542075.png" width='20' height = '20'> Introduction</h2></summary>
  
 Diabetes mellitus, a chronic metabolic disorder, poses a significant global health challenge, affecting millions of individuals worldwide. Effective management of diabetes relies heavily on continuous monitoring of key physiological parameters, including blood glucose levels, blood pressure, heart pulse, and oxygen saturation. Traditional monitoring methods often entail inconvenience, discomfort, and occasional inaccuracies, leading to suboptimal disease management and increased risks of complications.
 
